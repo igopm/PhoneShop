@@ -1,0 +1,40 @@
+body {
+	
+	margin-top: 0px;
+	margin-right: 190px;
+	margin-bottom: 0px;
+	margin-left: 200px;
+	}
+h1 {
+	color: #000000;
+	float:center;
+	}
+h2 {
+	font-size: 30px;
+	font-family: times new roman;
+	float:center
+	}
+p {font-size: 20px; 
+  font-family: times new roman; 
+  float:inherit
+	}
+	
+a {
+	font-size: 15px;
+	}
+td {
+	text-align: center;
+	}
+table {
+     clear: both;
+     width:900px;
+     min-width:600px;
+     border-collapse: collapse;
+     margin: 0 0 2em 0;
+     font-size:0.9em;
+     margin: 1em 0 1.5em 0;
+     }
+	             
+	             
+	             
+				 

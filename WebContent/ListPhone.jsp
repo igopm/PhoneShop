@@ -9,7 +9,70 @@
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Show All Users</title>
 </head>
-<body>
+
+<link rel="stylesheet" href="screen.css" >
+ <body style="background-color:FFFFFFF;">  
+			 
+			     <a href="Home.html"title="Home">	 
+                  <center><img src="images/Home.png"alt="Home logo"></a></center>
+                
+				 <br />
+				 <hr />
+				 
+				 <center><table  style="background-color:#FFFFFF;">
+				 <tr>
+				 <td>
+				 <center><a href="subfolder/Video.html"title="Video">Video</a></center>
+				 </td>
+				 
+				 <td>
+				 <center><a href="subfolder/manufacturer.html">Manufacturer</a></center>
+				 </td>
+				 
+				 <td>
+				 <center><a href="subfolder/Colour.html">Colour</a> </center>
+				 </td>
+				 
+				 <td>
+				 <center><a href="ListPhone.jsp"title="Table">Table</a>
+				 </td>
+				 
+				 <td>
+				 <center><a href="subfolder/Shape.html"title="Shape">Shape</a>
+				 </td>
+				 
+				 </tr>
+				 
+				 
+				 <tr>
+				 <td>
+				 <a href="subfolder/video.html">
+				 <center><img src="images/8805.png"alt="smartphones_logo"width="100" height="100"> </center></a>
+				 </td>
+				 
+				 <td>
+				 <a href="subfolder/manufacturer.html">
+				 <center><img src="images/radio.jpg"width="100" height="100"></center></a>
+				 </td>
+				 
+				 <td>
+				 <a href="subfolder/Colour.html">
+				 <center><img src="images/colur.jpg"alt="Colour_logo" width="100" height="100"> </center></a>
+				 </td>
+				 
+				 <td>
+				 <a href="ListPhone.jsp">
+				 <center><img src="images/Table.png"alt="Table_logo" width="100" height="100"> </center></a>
+				 </td>
+				 
+				 <td>
+				 <a href="subfolder/Shape.html">
+				 <center><img src="images/1520.jpg"alt="Shape_logo" width="100" height="100"> </center></a>
+				 </td>
+				 </tr>
+				 
+				 
+				 </table></center>
 	<center> <table border=1>
 		<thead>
 			<tr>
