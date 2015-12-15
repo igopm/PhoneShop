@@ -27,8 +27,8 @@ td {
 	}
 table {
      clear: both;
-     width:900px;
-     min-width:600px;
+     width:800px;
+     min-width:500px;
      border-collapse: collapse;
      margin: 0 0 2em 0;
      font-size:0.9em;

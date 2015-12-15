@@ -5,6 +5,8 @@
 	id="WebApp_ID" version="3.1">
 	<display-name>Phone Shop</display-name>
 	<welcome-file-list>
+	<welcome-file>Home.html</welcome-file>
+	<welcome-file>Home.htm</welcome-file>
 		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.htm</welcome-file>
 		<welcome-file>index.jsp</welcome-file>
